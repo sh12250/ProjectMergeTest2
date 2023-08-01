@@ -4,17 +4,17 @@ using UnityEngine;
 
 public class OneAndOnlyJunbo : MonoBehaviour
 {
-    private string name;
+    private string hisName;
     // Start is called before the first frame update
     void Start()
     {
-        name = "JunBo";
-        name += "is God";
+        hisName = "JunBo";
+        hisName += "is God";
     }
 
     // Update is called once per frame
-    void Update()
+    void LateUpdate()
     {
-        
+        Debug.Log(hisName);
     }
 }
