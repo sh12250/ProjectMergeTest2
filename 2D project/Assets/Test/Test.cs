@@ -2,12 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 namespace hmg
 =======
 namespace sjb
 >>>>>>> origin/Shim2
+=======
+namespace hsj
+>>>>>>> origin/HongSungJaeZZang
 {
     public class Test : MonoBehaviour
     {
@@ -15,15 +19,20 @@ namespace sjb
         void Start()
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
             Debug.Log("Hello1");
 >>>>>>> origin/Shim2
+=======
+
+>>>>>>> origin/HongSungJaeZZang
         }
 
         // Update is called once per frame
         void Update()
         {
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -31,4 +40,10 @@ namespace sjb
 >>>>>>> origin/Shim2
         }
     }
+=======
+
+        }
+    }
+
+>>>>>>> origin/HongSungJaeZZang
 }
