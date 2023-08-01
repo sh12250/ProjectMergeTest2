@@ -18,6 +18,6 @@ public class MakeShimGreater : MonoBehaviour
             hisName = "GodShim";
         }
 
-        Debug.Log(name);
+        Debug.Log(hisName);
     }
 }
